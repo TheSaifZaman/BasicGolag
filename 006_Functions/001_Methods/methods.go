@@ -21,3 +21,5 @@ func multiply(num1, num2 float64) float64 {
 	result = num1 * num2
 	return result
 }
+
+// Public Methods Starts with CapitalLetter, Private Methods Starts with smallLetter
